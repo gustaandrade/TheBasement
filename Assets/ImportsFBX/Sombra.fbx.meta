@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: c8d71923c03b5be42b9b6085be37a4e1
+timeCreated: 1477251037
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body_crtl
+    100002: Eye_crtl
+    100004: eyes
+    100006: head_root
+    100008: l_ankle
+    100010: l_ankle_ik
+    100012: l_ball
+    100014: l_ball_ik
+    100016: l_elbow
+    100018: l_elbow_crtl
+    100020: l_eye
+    100022: l_eye 1
+    100024: l_eye_crtl
+    100026: l_fngrs_root
+    100028: l_foot_crtl
+    100030: l_hand_crtl
+    100032: l_hip
+    100034: l_ik_shoulder
+    100036: l_ind_mid
+    100038: l_ind_root
+    100040: l_ind_tip
+    100042: l_knee
+    100044: l_knee_crtl
+    100046: l_pinky_mid
+    100048: l_pinky_root
+    100050: l_pinky_tip
+    100052: l_shoulder
+    100054: l_shoulder_crtl
+    100056: l_shoulder_roll
+    100058: l_shoulder_roll_crtl
+    100060: l_thumb_mid
+    100062: l_thumb_root
+    100064: l_thumb_tip
+    100066: l_toe
+    100068: l_toe_ik
+    100070: l_wrist
+    100072: lower_spine_crtl
+    100074: neck
+    100076: neck_crtl
+    100078: r_ankle
+    100080: r_ankle_ik
+    100082: r_ball
+    100084: r_ball_ik
+    100086: r_elbow
+    100088: r_elbow_crtl
+    100090: r_eye
+    100092: r_eye 1
+    100094: r_eye_crtl
+    100096: r_fngrs_root
+    100098: r_foot_crtl
+    100100: r_hand_crtl
+    100102: r_hip
+    100104: r_ik_shoulder
+    100106: r_ind_mid
+    100108: r_ind_root
+    100110: r_ind_tip
+    100112: r_knee
+    100114: r_knee_crtl
+    100116: r_pinky_mid
+    100118: r_pinky_root
+    100120: r_pinky_tip
+    100122: r_shoulder
+    100124: r_shoulder_roll
+    100126: r_shoulder_roll_crtl
+    100128: r_shoulderl_crtl
+    100130: r_thumb_mid
+    100132: r_thumb_root
+    100134: r_thumb_tip
+    100136: r_toe
+    100138: r_toe_ik
+    100140: r_wrist
+    100142: ROOT
+    100144: ROOT_crtl
+    100146: rot_Ankle_null
+    100148: rot_Ankle_null 1
+    100150: rot_AnkleToe_null
+    100152: rot_AnkleToe_null 1
+    100154: rot_ballY_null
+    100156: rot_ballY_null 1
+    100158: rot_Toe_null
+    100160: rot_Toe_null 1
+    100162: rot_ToeAnkle_null
+    100164: rot_ToeAnkle_null 1
+    100166: shoulders_root
+    100168: //RootNode
+    100170: sombra
+    100172: spine1
+    100174: spine2
+    100176: spine3
+    100178: spine4
+    100180: top
+    100182: upper_spine_crtl
+    400000: body_crtl
+    400002: Eye_crtl
+    400004: eyes
+    400006: head_root
+    400008: l_ankle
+    400010: l_ankle_ik
+    400012: l_ball
+    400014: l_ball_ik
+    400016: l_elbow
+    400018: l_elbow_crtl
+    400020: l_eye
+    400022: l_eye 1
+    400024: l_eye_crtl
+    400026: l_fngrs_root
+    400028: l_foot_crtl
+    400030: l_hand_crtl
+    400032: l_hip
+    400034: l_ik_shoulder
+    400036: l_ind_mid
+    400038: l_ind_root
+    400040: l_ind_tip
+    400042: l_knee
+    400044: l_knee_crtl
+    400046: l_pinky_mid
+    400048: l_pinky_root
+    400050: l_pinky_tip
+    400052: l_shoulder
+    400054: l_shoulder_crtl
+    400056: l_shoulder_roll
+    400058: l_shoulder_roll_crtl
+    400060: l_thumb_mid
+    400062: l_thumb_root
+    400064: l_thumb_tip
+    400066: l_toe
+    400068: l_toe_ik
+    400070: l_wrist
+    400072: lower_spine_crtl
+    400074: neck
+    400076: neck_crtl
+    400078: r_ankle
+    400080: r_ankle_ik
+    400082: r_ball
+    400084: r_ball_ik
+    400086: r_elbow
+    400088: r_elbow_crtl
+    400090: r_eye
+    400092: r_eye 1
+    400094: r_eye_crtl
+    400096: r_fngrs_root
+    400098: r_foot_crtl
+    400100: r_hand_crtl
+    400102: r_hip
+    400104: r_ik_shoulder
+    400106: r_ind_mid
+    400108: r_ind_root
+    400110: r_ind_tip
+    400112: r_knee
+    400114: r_knee_crtl
+    400116: r_pinky_mid
+    400118: r_pinky_root
+    400120: r_pinky_tip
+    400122: r_shoulder
+    400124: r_shoulder_roll
+    400126: r_shoulder_roll_crtl
+    400128: r_shoulderl_crtl
+    400130: r_thumb_mid
+    400132: r_thumb_root
+    400134: r_thumb_tip
+    400136: r_toe
+    400138: r_toe_ik
+    400140: r_wrist
+    400142: ROOT
+    400144: ROOT_crtl
+    400146: rot_Ankle_null
+    400148: rot_Ankle_null 1
+    400150: rot_AnkleToe_null
+    400152: rot_AnkleToe_null 1
+    400154: rot_ballY_null
+    400156: rot_ballY_null 1
+    400158: rot_Toe_null
+    400160: rot_Toe_null 1
+    400162: rot_ToeAnkle_null
+    400164: rot_ToeAnkle_null 1
+    400166: shoulders_root
+    400168: //RootNode
+    400170: sombra
+    400172: spine1
+    400174: spine2
+    400176: spine3
+    400178: spine4
+    400180: top
+    400182: upper_spine_crtl
+    4300000: sombra
+    4300002: l_eye
+    4300004: r_eye
+    9500000: //RootNode
+    13700000: l_eye
+    13700002: r_eye
+    13700004: sombra
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

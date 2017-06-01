@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6b1fd8db1367f924393ccf8c05aa9790
+timeCreated: 1477234664
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabideiro_parede
+    100002: cama_jack
+    100004: //RootNode
+    100006: camisa
+    100008: colchao1
+    100010: comodaJ
+    100012: Conjunto_Cama_pais
+    100014: mesinha_lado_cama1
+    100016: travesseiiro2
+    100018: travesseiro3
+    100020: travesseiroG
+    400000: cabideiro_parede
+    400002: cama_jack
+    400004: //RootNode
+    400006: camisa
+    400008: colchao1
+    400010: comodaJ
+    400012: Conjunto_Cama_pais
+    400014: mesinha_lado_cama1
+    400016: travesseiiro2
+    400018: travesseiro3
+    400020: travesseiroG
+    2300000: cabideiro_parede
+    2300002: cama_jack
+    2300004: camisa
+    2300006: colchao1
+    2300008: comodaJ
+    2300010: mesinha_lado_cama1
+    2300012: travesseiiro2
+    2300014: travesseiro3
+    2300016: travesseiroG
+    3300000: cabideiro_parede
+    3300002: cama_jack
+    3300004: camisa
+    3300006: colchao1
+    3300008: comodaJ
+    3300010: mesinha_lado_cama1
+    3300012: travesseiiro2
+    3300014: travesseiro3
+    3300016: travesseiroG
+    4300000: mesinha_lado_cama1
+    4300002: cama_jack
+    4300004: colchao1
+    4300006: travesseiiro2
+    4300008: travesseiro3
+    4300010: travesseiroG
+    4300012: comodaJ
+    4300014: camisa
+    4300016: cabideiro_parede
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

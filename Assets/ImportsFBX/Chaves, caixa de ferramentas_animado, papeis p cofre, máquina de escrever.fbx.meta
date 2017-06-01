@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 3043524563357fa4a8461a1efe04e7cb
+timeCreated: 1477507862
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abrir_Caixa
+    100002: Abrir_Tampa
+    100004: cadeado1
+    100006: cadeado2
+    100008: cadeado3
+    100010: Caixa
+    100012: chave_cubo
+    100014: Chave_esfera
+    100016: chave_piramide
+    100018: //RootNode
+    100020: Conjunto_Caixa
+    100022: encaixe1
+    100024: encaixe2
+    100026: encaixe3
+    100028: jornal_assassino
+    100030: maquina_type
+    100032: Pesquisa_cabana
+    100034: Tampa
+    100036: trava1
+    100038: trava2
+    100040: trava3
+    400000: Abrir_Caixa
+    400002: Abrir_Tampa
+    400004: cadeado1
+    400006: cadeado2
+    400008: cadeado3
+    400010: Caixa
+    400012: chave_cubo
+    400014: Chave_esfera
+    400016: chave_piramide
+    400018: //RootNode
+    400020: Conjunto_Caixa
+    400022: encaixe1
+    400024: encaixe2
+    400026: encaixe3
+    400028: jornal_assassino
+    400030: maquina_type
+    400032: Pesquisa_cabana
+    400034: Tampa
+    400036: trava1
+    400038: trava2
+    400040: trava3
+    2300000: cadeado1
+    2300002: cadeado2
+    2300004: cadeado3
+    2300006: Caixa
+    2300008: chave_cubo
+    2300010: Chave_esfera
+    2300012: chave_piramide
+    2300014: encaixe1
+    2300016: encaixe2
+    2300018: encaixe3
+    2300020: jornal_assassino
+    2300022: maquina_type
+    2300024: Pesquisa_cabana
+    2300026: Tampa
+    2300028: trava1
+    2300030: trava2
+    2300032: trava3
+    3300000: cadeado1
+    3300002: cadeado2
+    3300004: cadeado3
+    3300006: Caixa
+    3300008: chave_cubo
+    3300010: Chave_esfera
+    3300012: chave_piramide
+    3300014: encaixe1
+    3300016: encaixe2
+    3300018: encaixe3
+    3300020: jornal_assassino
+    3300022: maquina_type
+    3300024: Pesquisa_cabana
+    3300026: Tampa
+    3300028: trava1
+    3300030: trava2
+    3300032: trava3
+    4300000: Caixa
+    4300002: encaixe1
+    4300004: encaixe2
+    4300006: encaixe3
+    4300008: trava3
+    4300010: trava2
+    4300012: trava1
+    4300014: Tampa
+    4300016: Pesquisa_cabana
+    4300018: cadeado3
+    4300020: cadeado2
+    4300022: cadeado1
+    4300024: Chave_esfera
+    4300026: chave_piramide
+    4300028: chave_cubo
+    4300030: maquina_type
+    4300032: jornal_assassino
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

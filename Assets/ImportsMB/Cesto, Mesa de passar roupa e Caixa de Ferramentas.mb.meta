@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 497a9e2602dd5e545a11a19c07e3ffe0
+timeCreated: 1477248778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: bottom
+    100004: //RootNode
+    100006: curve1
+    100008: CXdFerramentas
+    100010: left
+    100012: pCube10
+    100014: pCube11
+    100016: pCube12
+    100018: pCube13
+    100020: pCube16
+    100022: pCube17
+    100024: pCube18
+    100026: pCube2
+    100028: pCube4
+    100030: pCube5
+    100032: pCube6
+    100034: pCube7
+    100036: pCube8
+    100038: pCube9
+    100040: pCylinder1
+    100042: pCylinder2
+    100044: pCylinder3
+    100046: pCylinder4
+    100048: revolvedSurface2
+    100050: TORRADEIRA
+    100052: transform1
+    100054: transform2
+    100056: transform3
+    100058: transform4
+    400000: back
+    400002: bottom
+    400004: //RootNode
+    400006: curve1
+    400008: CXdFerramentas
+    400010: left
+    400012: pCube10
+    400014: pCube11
+    400016: pCube12
+    400018: pCube13
+    400020: pCube16
+    400022: pCube17
+    400024: pCube18
+    400026: pCube2
+    400028: pCube4
+    400030: pCube5
+    400032: pCube6
+    400034: pCube7
+    400036: pCube8
+    400038: pCube9
+    400040: pCylinder1
+    400042: pCylinder2
+    400044: pCylinder3
+    400046: pCylinder4
+    400048: revolvedSurface2
+    400050: TORRADEIRA
+    400052: transform1
+    400054: transform2
+    400056: transform3
+    400058: transform4
+    2300000: CXdFerramentas
+    2300002: pCube10
+    2300004: pCube11
+    2300006: pCube12
+    2300008: pCube13
+    2300010: pCube16
+    2300012: pCube17
+    2300014: pCube18
+    2300016: pCube2
+    2300018: pCube6
+    2300020: pCube7
+    2300022: pCylinder1
+    2300024: pCylinder2
+    2300026: pCylinder3
+    2300028: pCylinder4
+    2300030: TORRADEIRA
+    3300000: CXdFerramentas
+    3300002: pCube10
+    3300004: pCube11
+    3300006: pCube12
+    3300008: pCube13
+    3300010: pCube16
+    3300012: pCube17
+    3300014: pCube18
+    3300016: pCube2
+    3300018: pCube6
+    3300020: pCube7
+    3300022: pCylinder1
+    3300024: pCylinder2
+    3300026: pCylinder3
+    3300028: pCylinder4
+    3300030: TORRADEIRA
+    4300000: TORRADEIRA
+    4300002: pCube2
+    4300004: pCylinder1
+    4300006: pCylinder2
+    4300008: pCylinder3
+    4300010: pCylinder4
+    4300012: CXdFerramentas
+    4300014: pCube6
+    4300016: pCube7
+    4300018: pCube10
+    4300020: pCube11
+    4300022: pCube12
+    4300024: pCube13
+    4300026: pCube16
+    4300028: pCube17
+    4300030: pCube18
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
